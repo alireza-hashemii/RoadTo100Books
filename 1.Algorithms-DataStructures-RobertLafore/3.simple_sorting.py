@@ -37,4 +37,7 @@ def selection_sort(data:list):
 print(f"The sorted array is as follows: {selection_sort([4,2,7,1,6,8])}")
 
 
+def insertion_sort(data:list):
+    pass
+
 
